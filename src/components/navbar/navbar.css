@@ -1,0 +1,31 @@
+.kfc_name_logo{
+width: 90px;
+height:90px;
+align-self:center;
+margin-right:50px;
+}
+.navbar_cartcount{
+
+    background-image: url(../../../public/bucket_cart_icon.svg);
+    background-repeat: no-repeat;
+    height: 51.2px;
+     width:51.2px;
+    text-align: center;
+    padding-top: 15px;
+    margin-top: 15px;
+
+}
+.navbar_signin_icon{
+display: flex;
+ align-self:center;
+}
+.navbar_cartdetail{
+height: 40px;
+ width:0.5px; 
+ background-color:lightgray;
+  align-self:center;
+}
+.navbar_amount{
+align-self:center;
+ margin-left:15px;
+}
