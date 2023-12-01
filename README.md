@@ -1,8 +1,7 @@
 
 
 <h1>KFC-Mukono</h1>
-<a href="https://62e3fd1323b3d709679a3d6c--kfc-rozodkarbharat.netlify.app/"><p>View Demo<p/></a>
-<p>E-commerce app for food delivery.</p>
+<p>KFC-MUKONO.</p>
 
 <h3>features:-</h3>
 <ul>
@@ -29,17 +28,17 @@
 <h1>Snippets</h1>
 <div marginTop="100px">
   <h2>Home Page</h2>
-<img src="https://miro.medium.com/max/875/1*8oXKOMNsHCkiZ0FFSqNDzw.png"/>
+<img src="public/home_page.png"/>
 <div/>
   <div marginTop="100px">
     <h2>Products Page</h2>
-<img src="https://miro.medium.com/max/875/1*N4sCAyw4Q7W-sxGSfHUzUw.png"/>
+<img src="public/Product_page.png"/>
 <div/>
     <div marginTop="100px">
        <h2>Cart Page</h2>
-<img src="https://miro.medium.com/max/875/1*6tJDZqLSqCADrXKtgJHwDw.png">
+<img src="public/cart_page.png">
 <div/>
       <div>
          <h2>Login Page</h2>
-<img src="https://miro.medium.com/max/875/1*uRxOVuqSef0uVgtuHq-gkQ.png"/>
+<img src="public/last.png"/>
 <div/>
