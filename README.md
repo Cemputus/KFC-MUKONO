@@ -28,15 +28,15 @@
 <h1>Snippets</h1>
 <div marginTop="100px">
   <h2>Home Page</h2>
-<img src="public/home_page.png"/>
+
 <div/>
   <div marginTop="100px">
     <h2>Products Page</h2>
-<img src="public/Product_page.png"/>
+
 <div/>
     <div marginTop="100px">
        <h2>Cart Page</h2>
-<img src="public/cart_page.png">
+
 <div/>
       <div>
          <h2>Login Page</h2>
